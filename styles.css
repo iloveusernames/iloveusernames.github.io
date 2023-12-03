@@ -1,0 +1,59 @@
+
+.body-class {
+    background-color: #fff9d6;
+}
+
+.header-class{
+    color: #f5d000;
+    background-color: #80477e;
+    
+}
+
+.nav-class {
+    color: #715fa3;
+    background-color: #ffea70;
+    
+        #current-page {
+            font-weight: bold;
+        }
+}
+
+.title-class {
+    color: #090233
+}
+
+.section-title-class {
+    color: #0e0863
+}
+
+.text-class {
+    color: #1e376d
+}
+
+.image-class {
+    border-style: solid;
+    border-width: 4px;
+    border-color: #551f53
+}
+
+.form-class {
+    input {
+        background-color: #DDD8E9;
+        color: #120435
+    }
+
+    
+    input[type=submit] {
+            background-color: #c8b5f5;
+            color: #120435
+        }
+    
+}
+
+
+
+.footer-class {
+    background-color: #ff8c86;
+    color: #97130c
+}
+
